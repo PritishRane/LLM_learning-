@@ -12,7 +12,7 @@ from torchvision.models import resnet50
 
 # Load environment variables
 _ = load_dotenv(find_dotenv())
-groq_api_key = os.environ["GROQ_API_KEY"]
+groq_api_key = os.environ["XXXXX"]
 
 # Initialize the Groq LLM with a specific model
 groq_model = "llama3-70b-8192"  # High-performing Groq model
