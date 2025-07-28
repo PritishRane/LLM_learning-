@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+crewai
+langchain
+langchain-groqstreamlit
+python-dotenv
+crewai
+langchain
+langchain-groq
